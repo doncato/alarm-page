@@ -3,16 +3,13 @@
     <head>
         <title>Venture</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <meta name="author" content="doncato" />
-        <meta name="description" content="Venture - Blogpage in development" />
-        <meta name="keywords" content="doncato,blog" />
+        <meta name="author" content="https://github.com/doncato/alarm-page" />
+        <meta name="description" content="Alert" />
 
-        <meta content="Venture - Blog" property="og:title" />
-        <meta content="My name is doncato, this is my own blogpage. It's a work in progress at the moment" property="og:description" />
-        <meta content="Venture" property="og:site_name" />
+        <meta content="Alarm" property="og:title" />
+        <meta content="Alert!" property="og:description" />
+        <meta content="Alarm" property="og:site_name" />
         <meta content="website" property="og:type" />
-        <meta content="https://www.youareanidiot.cc/" property="og:url" />
-        <meta content="https://venture.zossennews.de/home/img/logo_light.png" property="og:image" />
         <meta content="#cc0000" data-react-helmet="true" name="theme-color" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
