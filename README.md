@@ -24,6 +24,7 @@ You can set these things:
 **NOTES:**
 + As long as the no_slider argument has *any* value it will be interpreted as `true`
 + Text fields can be set to `none` (must be lowercase) to hide them completely
++ You could use this customization to also inject html code (e.g. make a link, etc.)
 
 ## Contributing
 There are 3 ways to contribute:
