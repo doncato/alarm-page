@@ -1,5 +1,5 @@
 # alarm-page
-A simple Sci-Fi-like alarm animation Web-page purely written in HTML, CSS and PHP
+A simple Sci-Fi-like alarm animation Web-page written in HTML, CSS and PHP
 This page is just a basic silly alarm animation. It just blinks red and black and stuff.
 The idea for this is to be a fun little website which anyone can fullscreen for fun (maybe a prank?)
 or maybe also as screen for video producer. Maybe you could also open this page if an application encouters
